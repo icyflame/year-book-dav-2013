@@ -50,7 +50,7 @@ fil = open('output.html','w')
 
 fil.write('<!DOCTYPE html>\n\n<html>\n\n<body>\n\n<div style="text-align:center">\
             \n<h1>DAV PUBLIC SCHOOL, NERUL</h1><h2> YEARBOOK</h2>\
-            \n<h2>Class of 2013</h2><img src="http://www.dpcdsb.org/NR/rdonlyres/1D7D803D-0E9A-4629-B772-CCDCC12F305A/111186/classof2013.jpg"\
+            \n<h2>Class of 2013</h2><img src="http://i40.tinypic.com/10yjbpt.jpg"\
             width="200" height="200" alt="Class of 2013"/>\n</div>\
             \n\n<table border="2" bordercolor="black" width="100%" height="100%">\n\n')
 
